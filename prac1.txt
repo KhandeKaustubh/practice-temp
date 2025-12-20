@@ -12,7 +12,7 @@ are...........
 
 This is the last change
 
-This is the next last change.
+This is the next last change. But again this is the new Change. 
 
 
 18th line commit
