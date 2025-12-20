@@ -34,4 +34,8 @@ Third person commit
 5th commit
 5 and half
 6th commit 7th commit
+<<<<<<< HEAD
 8th commit                        10th commit
+=======
+8th commit 9th commit
+>>>>>>> fe1d71588d5a94b127dcaf20cf68c0da3de593c6
