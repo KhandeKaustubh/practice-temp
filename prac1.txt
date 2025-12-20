@@ -1,44 +1,36 @@
 This is the file
 which I have edited,
 So This is a technical file...
-<<<<<<< Updated upstream
 This is after stash
-=======
 
 
 //These are....the cha ae ae ae n ge ge aess
 are...........
->>>>>>> Stashed changes
 
 This is the last change
 
 This is the next last change. But again this is the new Change. 
 
 
+18th line commit with half 2nd
 18th line commit with half 1st
 19th line commit
 20th line commit
 21th line commit
 22nd line commit
 
-<<<<<<< HEAD
 
 Third person commit
 
 forth commit
-=======
 Third person commit
->>>>>>> 5c36c61a0773bc757293f0fd4208d6e12cfab9f4
 
 4th commit
 5th commitjdbhvjdhvbjvsv
 5 and half
 6th commit 7th commit 
-<<<<<<< HEAD
 8th commit                        10th commit
-=======
 8th commit 9th commit
->>>>>>> fe1d71588d5a94b127dcaf20cf68c0da3de593c6
 10th commit
 11th commit
 12th commit
