@@ -17,8 +17,8 @@ This is the next last change. But again this is the new Change.
 
 18th line commit with half 2nd
 19th line commit
-20th line commit
-21th line commit
+20th line commit with half
+21th line commit 
 22nd line commit
 
 <<<<<<< HEAD
