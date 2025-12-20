@@ -17,14 +17,12 @@ This is the next last change. But again this is the new Change.
 19th line commit
 20th line commit with half
 21th line commit 
-<<<<<<< HEAD
 22nd line commit with half
-=======
 19th line commit with half
-20th line commit
-21th line commit
+20th line commit with half
+21th line commit with half
 22nd line commit
->>>>>>> 0ac10600e73db715cf58279f6b5db6541e26301b
+
 
 
 Third person commit
@@ -41,4 +39,4 @@ Third person commit
 10th commit
 11th commit
 12th commit half
-13th commit
+13th commit half
