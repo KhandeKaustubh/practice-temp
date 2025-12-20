@@ -15,12 +15,17 @@ This is the last change
 
 
 
+18th line commit
 
 
 
 
 
+<<<<<<< HEAD
 
 Third person commit
 
 forth commit
+=======
+Third person commit
+>>>>>>> 5c36c61a0773bc757293f0fd4208d6e12cfab9f4
