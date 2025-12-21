@@ -1,6 +1,6 @@
 This is the file
 which I have edited,
-So This is a technical file...
+So This is a technical file... and it is a technical file
 This is after stash
 
 
