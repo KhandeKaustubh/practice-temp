@@ -13,7 +13,7 @@ This is the last change but not first
 This is the next last change. But again this is the new Change. 
 
 
-18th line commit with half 2nd
+18th line commit with half 2nd 3rd
 18th line commit with half 1st
 19th line commit
 20th line commit with half
@@ -40,4 +40,4 @@ Third person commit
 10th commit
 11th commit
 12th commit half
-13th commit half
+13th commit half and Thirteenth
