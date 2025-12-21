@@ -1,4 +1,5 @@
 This is the file
+So This is a technical file... and it is a technical file
 which I have edited, so what
 So This is a technical file...
 This is after stash
@@ -14,13 +15,18 @@ This is the next last change. But again this is the new Change.
 
 18th line commit with half 2nd
 18th line commit with half 1st
+19th line commit
+20th line commit with half
+21th line commit 
+22nd line commit with half
 19th line commit with half
 20th line commit with half
 21th line commit with half
 22nd line commit
 
 
-Third person commit
+
+Third person commit and 3rd commit
 
 forth commit
 Third person commit
@@ -33,5 +39,5 @@ Third person commit
 8th commit 9th commit
 10th commit
 11th commit
-12th commit
+12th commit half
 13th commit half
